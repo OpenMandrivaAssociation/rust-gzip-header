@@ -5,8 +5,8 @@
 %global crate gzip-header
 
 Name:           rust-%{crate}
-Version:        0.3.0
-Release:        2%{?dist}
+Version:        1.1.0
+Release:        1%{?dist}
 Summary:        Crate for decoding and encoding the header part of gzip files
 
 # Upstream license specification: MIT/Apache-2.0
